@@ -4,6 +4,7 @@
 **Anjalipriya252/Anjalipriya252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi Developers 👋
 
+
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
@@ -142,7 +143,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-
+**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
